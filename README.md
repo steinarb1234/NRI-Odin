@@ -1,6 +1,6 @@
 # NRI-odin
 
-Bindings for [Nvidia NRI](https://github.com/NVIDIA-RTX/NRI) version 192 in Odin.
+Bindings for [NVIDIA NRI](https://github.com/NVIDIA-RTX/NRI) version 192 in Odin.
 
 D3D11, D3D12, Vulkan and WebGPU backends are enabled in the included binaries. The Imgui extension is also enabled.
 
