@@ -1,4 +1,4 @@
-# NRI-odin
+# NRI-Odin
 
 Bindings for [NVIDIA NRI](https://github.com/NVIDIA-RTX/NRI) version 192 in Odin.
 
